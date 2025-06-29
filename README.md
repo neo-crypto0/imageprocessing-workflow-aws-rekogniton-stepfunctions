@@ -1,0 +1,2 @@
+# serverlessimageprocessing-workflow-aws-rekogniton-stepfunctions
+This project implements a fully serverless image processing pipeline using AWS Step Functions, Rekognition, Lambda, and S3. It detects faces, creates thumbnails, indexes faces into a collection, and stores metadata in DynamoDB. Originally based on the AWS Serverless Workshop, this version is customized and built manually using the AWS Console.
