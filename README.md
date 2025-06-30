@@ -15,7 +15,8 @@ This project implements a fully serverless image processing pipeline using AWS S
 
 ## 🧱 Architecture
 
-![image](https://github.com/user-attachments/assets/69d4ccd9-6f84-485f-a136-f5a45e3573e4)
+![image](https://github.com/user-attachments/assets/3a9f446d-3915-459e-bf40-29136d12f1af)
+
 
 - Amazon S3: Stores rider images and thumbnails.
 - AWS Lambda: Contains 5 Python-based functions:
